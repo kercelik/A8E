@@ -1,0 +1,15 @@
+{
+  "name": "A8E \u2014 Freedom Blueprint",
+  "short_name": "A8E",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/assets/a8e-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
